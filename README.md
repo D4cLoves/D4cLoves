@@ -52,10 +52,8 @@
 
 <div align="center">
   
-  <a href="https://github.com/D4cLoves">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=D4cLoves&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=D4cLoves&layout=compact&theme=dark&bg_color=0d1117&hide_border=true&langs_count=8"/>
-  </a>
+![Stats Overview](https://raw.githubusercontent.com/D4cLoves/github-stats-transparent/refs/heads/output/generated/languages.svg)
+![Most Used Languages](https://raw.githubusercontent.com/D4cLoves/github-stats-transparent/refs/heads/output/generated/overview.svg)
   
   <br/>
   
