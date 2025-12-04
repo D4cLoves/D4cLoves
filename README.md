@@ -2,28 +2,13 @@
 <img src="https://github.com/D4cLoves/D4cLoves/blob/main/2a51db08254e79f328819bf3e8bf823f.jpg" width="35%" align="right" />
 <img src="https://github.com/D4cLoves/D4cLoves/blob/main/069406929aececd7a356af227d25f244.jpg" width="60%" />
 <br><br>
-<div style="margin-bottom: 25px; background: #161b22; padding: 15px; border-radius: 10px; border-left: 4px solid #58a6ff;">
-    <div style="display: flex; align-items: center; margin-bottom: 8px;">
-        <span style="margin-right: 10px;">💼</span>
-        <span>Back-end developer • Platform Engineer</span>
-    </div>
-    <div style="display: flex; align-items: center; margin-bottom: 8px;">
-        <span style="margin-right: 10px;">💻</span>
-        <span>System programming languages • DevOps</span>
-    </div>
-    <div style="display: flex; align-items: center; margin-bottom: 8px;">
-        <span style="margin-right: 10px;">📖</span>
-        <span>Software architecture • Distributed systems</span>
-    </div>
-    <div style="display: flex; align-items: center; margin-bottom: 8px;">
-        <span style="margin-right: 10px;">🎮</span>
-        <span>Music • Games • Anime • Code • Art</span>
-    </div>
-    <div style="display: flex; align-items: center;">
-        <span style="margin-right: 10px;">🥊</span>
-        <span>I love boxing</span>
-    </div>
-</div>
+<pre style="background: #161b22; padding: 20px; border-radius: 10px; border-left: 4px solid #58a6ff; font-size: 1.25em; color: #e0e0e0; line-height: 1.8; text-align: center; font-family: 'Segoe UI', sans-serif;">
+💼   Back-end developer • Platform Engineer
+💻   System programming languages • DevOps
+📖   Software architecture • Distributed systems
+🎮   Music • Games • Anime • Code • Art
+🥊   I love boxing
+</pre>
 
 <br><br>
 <img src="https://github.com/D4cLoves/D4cLoves/blob/main/109fbc99886fbd506c91acef122c3d79.gif" height="30" />
@@ -47,20 +32,6 @@
 </div>
 
 
-
-## 📊 Статистика GitHub
-
-<div align="center">
-  
-![Stats Overview](https://raw.githubusercontent.com/D4cLoves/github-stats-transparent/refs/heads/output/generated/languages.svg)
-![Most Used Languages](https://raw.githubusercontent.com/D4cLoves/github-stats-transparent/refs/heads/output/generated/overview.svg)
-  
-  <br/>
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=D4cLoves&theme=dark&hide_border=true&background=0d1117)
-  
-</div>
-
 ## 🛠️ Технологии и навыки
 
 ### **Frontend:**
@@ -80,6 +51,21 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
+
+
+## 📊 Статистика GitHub
+
+<div align="center">
+  
+![Stats Overview](https://raw.githubusercontent.com/D4cLoves/github-stats-transparent/refs/heads/output/generated/languages.svg)
+![Most Used Languages](https://raw.githubusercontent.com/D4cLoves/github-stats-transparent/refs/heads/output/generated/overview.svg)
+  
+<br/>
+  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=D4cLoves&theme=dark&hide_border=true&background=0d1117)
+  
+</div>
+
 
 ## 📈 Активность
 
