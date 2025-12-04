@@ -29,10 +29,21 @@
 <img src="https://github.com/D4cLoves/D4cLoves/blob/main/109fbc99886fbd506c91acef122c3d79.gif" height="30" />
 <br><br><br>
     
-[![](https://img.shields.io/badge/linkedin-0a66c2)](http://linkedin.com/in/ingridrosselis)
-[![](https://img.shields.io/badge/mastodon-6364ff)](https://tech.lgbt/@innng)
-[![](https://img.shields.io/badge/osu!-ff66ab)](https://osu.ppy.sh/users/4606212)
-[![](https://img.shields.io/badge/enka.network-69899c)](https://enka.network/u/Inng/1A4HU1/10000069/1985924/)
+<div align="center" style="margin-top: 30px;">
+    <a href="https://t.me/ваш_ник" style="text-decoration: none; margin: 0 10px;">
+        <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+    </a>
+    <a href="https://vk.com/ваш_ид" style="text-decoration: none; margin: 0 10px;">
+        <img src="https://img.shields.io/badge/VK-4C75A3?style=for-the-badge&logo=vk&logoColor=white" alt="VK"/>
+    </a>
+    <a href="https://github.com/D4cLoves" style="text-decoration: none; margin: 0 10px;">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    </a>
+    <a href="https://linkedin.com/in/ваш_профиль" style="text-decoration: none; margin: 0 10px;">
+        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+</div>
+
 </div>
 
 
