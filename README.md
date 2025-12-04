@@ -56,13 +56,18 @@
 ## 📊 Статистика GitHub
 
 <div align="center">
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=D4cLoves&theme=dark&hide_border=true&background=0d1117)
+
+
+<br/>
+
+
   
 ![Stats Overview](https://raw.githubusercontent.com/D4cLoves/github-stats-transparent/refs/heads/output/generated/languages.svg)
 ![Most Used Languages](https://raw.githubusercontent.com/D4cLoves/github-stats-transparent/refs/heads/output/generated/overview.svg)
   
-<br/>
   
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=D4cLoves&theme=dark&hide_border=true&background=0d1117)
   
 </div>
 
