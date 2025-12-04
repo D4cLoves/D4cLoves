@@ -1,24 +1,41 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/D4cLoves/D4cLoves/main/7b2838486f1b9ebe012d7d13e51a0512.jpg" width="200" height="200" style="border-radius: 50%; border: 3px solid #58a6ff;" alt="Vladislav's Profile Picture"/>
-  
-  <h1>👋 Привет, я Владислав!</h1>
-  
-  <p>
-    <b>17-летний Fullstack разработчик</b><br/>
-    🏠 Донецк | 📚 Self-educated | 🚀 Постоянно расту
-  </p>
-  
-  <p>
-    <a href="mailto:vladislavvtr12@mail.ru">
-      <img src="https://img.shields.io/badge/Email-Contact_Me-blue?logo=gmail" alt="Email"/>
-    </a>
-    <a href="https://github.com/D4cLoves">
-      <img src="https://img.shields.io/badge/GitHub-Profile-black?logo=github" alt="GitHub"/>
-    </a>
-  </p>
-  
-  <hr/>
+<img src="https://github.com/D4cLoves/D4cLoves/blob/main/2a51db08254e79f328819bf3e8bf823f.jpg" width="35%" align="right" />
+<img src="https://github.com/D4cLoves/D4cLoves/blob/main/069406929aececd7a356af227d25f244.jpg" width="60%" />
+<br><br>
+<div style="margin-bottom: 25px; background: #161b22; padding: 15px; border-radius: 10px; border-left: 4px solid #58a6ff;">
+    <div style="display: flex; align-items: center; margin-bottom: 8px;">
+        <span style="margin-right: 10px;">💼</span>
+        <span>Back-end developer • Platform Engineer</span>
+    </div>
+    <div style="display: flex; align-items: center; margin-bottom: 8px;">
+        <span style="margin-right: 10px;">💻</span>
+        <span>System programming languages • DevOps</span>
+    </div>
+    <div style="display: flex; align-items: center; margin-bottom: 8px;">
+        <span style="margin-right: 10px;">📖</span>
+        <span>Software architecture • Distributed systems</span>
+    </div>
+    <div style="display: flex; align-items: center; margin-bottom: 8px;">
+        <span style="margin-right: 10px;">🎮</span>
+        <span>Music • Games • Anime • Code • Art</span>
+    </div>
+    <div style="display: flex; align-items: center;">
+        <span style="margin-right: 10px;">🥊</span>
+        <span>I love boxing</span>
+    </div>
 </div>
+
+<br><br>
+<img src="https://github.com/D4cLoves/D4cLoves/blob/main/109fbc99886fbd506c91acef122c3d79.gif" height="30" />
+<br><br><br>
+    
+[![](https://img.shields.io/badge/linkedin-0a66c2)](http://linkedin.com/in/ingridrosselis)
+[![](https://img.shields.io/badge/mastodon-6364ff)](https://tech.lgbt/@innng)
+[![](https://img.shields.io/badge/osu!-ff66ab)](https://osu.ppy.sh/users/4606212)
+[![](https://img.shields.io/badge/enka.network-69899c)](https://enka.network/u/Inng/1A4HU1/10000069/1985924/)
+</div>
+
+
 
 ## 📊 Статистика GitHub
 
@@ -91,3 +108,4 @@
   <p><i>✨ "Код — это поэзия, которую понимают компьютеры"</i></p>
   
 </div>
+
