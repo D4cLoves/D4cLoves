@@ -29,18 +29,18 @@
 <img src="https://github.com/D4cLoves/D4cLoves/blob/main/109fbc99886fbd506c91acef122c3d79.gif" height="30" />
 <br><br><br>
     
-<div align="center" style="margin-top: 30px;">
-    <a href="https://t.me/ваш_ник" style="text-decoration: none; margin: 0 10px;">
-        <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+<div align="center" style="background: #161b22; padding: 20px; border-radius: 10px; margin-top: 30px; display: inline-block;">
+    <a href="https://t.me/ваш_ник" style="text-decoration: none; margin: 0 8px;">
+        <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram" alt="Telegram"/>
     </a>
-    <a href="https://vk.com/ваш_ид" style="text-decoration: none; margin: 0 10px;">
-        <img src="https://img.shields.io/badge/VK-4C75A3?style=for-the-badge&logo=vk&logoColor=white" alt="VK"/>
+    <a href="https://vk.com/ваш_ид" style="text-decoration: none; margin: 0 8px;">
+        <img src="https://img.shields.io/badge/VK-4C75A3?style=flat-square&logo=vk" alt="VK"/>
     </a>
-    <a href="https://github.com/D4cLoves" style="text-decoration: none; margin: 0 10px;">
-        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <a href="https://github.com/D4cLoves" style="text-decoration: none; margin: 0 8px;">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github" alt="GitHub"/>
     </a>
-    <a href="https://linkedin.com/in/ваш_профиль" style="text-decoration: none; margin: 0 10px;">
-        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <a href="https://linkedin.com/in/ваш_профиль" style="text-decoration: none; margin: 0 8px;">
+        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn"/>
     </a>
 </div>
 
