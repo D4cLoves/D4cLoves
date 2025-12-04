@@ -30,10 +30,10 @@
 <br><br><br>
     
 <div align="center" style="background: #161b22; padding: 20px; border-radius: 10px; margin-top: 30px; display: inline-block;">
-    <a href="https://t.me/ваш_ник" style="text-decoration: none; margin: 0 8px;">
+    <a href="https://t.me/D4cLoves" style="text-decoration: none; margin: 0 8px;">
         <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram" alt="Telegram"/>
     </a>
-    <a href="https://vk.com/ваш_ид" style="text-decoration: none; margin: 0 8px;">
+    <a href="https://vk.com/d4cloves" style="text-decoration: none; margin: 0 8px;">
         <img src="https://img.shields.io/badge/VK-4C75A3?style=flat-square&logo=vk" alt="VK"/>
     </a>
     <a href="https://github.com/D4cLoves" style="text-decoration: none; margin: 0 8px;">
