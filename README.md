@@ -1,33 +1,93 @@
 <div align="center">
-  <h1>Yo, I'm Vlad — 17-Year-Old .NET Fullstack Beast</h1>
+  <img src="https://raw.githubusercontent.com/D4cLoves/D4cLoves/main/7b2838486f1b9ebe012d7d13e51a0512.jpg" width="200" height="200" style="border-radius: 50%; border: 3px solid #58a6ff;" alt="Vladislav's Profile Picture"/>
+  
+  <h1>👋 Привет, я Владислав!</h1>
+  
+  <p>
+    <b>17-летний Fullstack разработчик</b><br/>
+    🏠 Донецк | 📚 Self-educated | 🚀 Постоянно расту
+  </p>
+  
+  <p>
+    <a href="mailto:vladislavvtr12@mail.ru">
+      <img src="https://img.shields.io/badge/Email-Contact_Me-blue?logo=gmail" alt="Email"/>
+    </a>
+    <a href="https://github.com/D4cLoves">
+      <img src="https://img.shields.io/badge/GitHub-Profile-black?logo=github" alt="GitHub"/>
+    </a>
+  </p>
+  
+  <hr/>
 </div>
 
+## 📊 Статистика GitHub
 
-<table align="center">
-  <tr>
-    <td width="50%" valign="top">
-      <p align="center">
-  <a href="https://readme.andyruwruw.com/api/now-playing?open">
-    <!-- Music bars move to the beat and are colored based on the track's happiness, danceability and energy! -->
-    <img src="https://raw.githubusercontent.com/andyruwruw/andyruwruw/master/example/now-playing.svg">
-    <!-- This is how you'd make the call dynamically <img src="https://readme.andyruwruw.com/api/now-playing"> -->
+<div align="center">
+  
+  <a href="https://github.com/D4cLoves">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=D4cLoves&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=D4cLoves&layout=compact&theme=dark&bg_color=0d1117&hide_border=true&langs_count=8"/>
   </a>
-</p>
+  
+  <br/>
+  
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=D4cLoves&theme=dark&hide_border=true&background=0d1117)
+  
+</div>
 
- 
+## 🛠️ Технологии и навыки
 
+### **Frontend:**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
+### **Backend & Базы данных:**
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andyruwruw/andyruwruw/master/example/skills.svg">
-  <!-- This is how you'd make the call dynamically <img src="https://readme.andyruwruw.com/api/skills"> -->
-</p>
-    </td>
-    <td width="50%" align="right">
-      <img src="https://github.com/D4cLoves/D4cLoves/blob/main/973f7237f7ea7f9583960fae7084c3cf.gif" width="100%" />
-    </td>
-  </tr>
-</table>
+### **Инструменты:**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
+## 📈 Активность
 
+<!-- GitHub Stats Snake Graph -->
+![D4cLoves's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=D4cLoves&theme=github-dark&hide_border=true&area=true)
+
+## 🎯 В планах изучать/улучшить
+
+- [x] TypeScript & React
+- [x] .NET Core
+- [ ] Kubernetes
+- [ ] AWS/Azure
+- [ ] GraphQL
+- [ ] Microservices архитектура
+
+## 📫 Контакты
+
+<div align="center">
+  
+  **Хочешь пообщаться или предложить проект?**  
+  Я всегда открыт к интересным предложениям и сотрудничеству!
+  
+  [![Email](https://img.shields.io/badge/vladislavvtr12@mail.ru-Email-red?style=flat-square&logo=gmail)](mailto:vladislavvtr12@mail.ru)
+  [![GitHub](https://img.shields.io/badge/D4cLoves-GitHub-black?style=flat-square&logo=github)](https://github.com/D4cLoves)
+  
+  <p>💬 <i>Не стесняйся писать!</i></p>
+  
+</div>
+
+---
+<div align="center">
+  
+  <img src="https://komarev.com/ghpvc/?username=D4cLoves&color=blue&style=flat-square" alt="Profile Views"/>
+  
+  <p><i>✨ "Код — это поэзия, которую понимают компьютеры"</i></p>
+  
+</div>
