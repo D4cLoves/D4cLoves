@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/D4cLoves/D4cLoves/blob/main/0cefaebe7fe15c2408dbf64f160d20a9.gif" 
+<img src="https://github.com/D4cLoves/D4cLoves/blob/main/06d85dfe641057ec9462c0bc6b092aa6.gif" 
        style="width: 100%; max-width: 900px; height: 150px; width: 900px; object-fit: cover; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);"
        alt="Header GIF"/>
 <br><br>
