@@ -1,6 +1,7 @@
 <div align="center">
-<img src="https://github.com/D4cLoves/D4cLoves/blob/main/2a51db08254e79f328819bf3e8bf823f.jpg" width="35%" align="right" />
-<img src="https://github.com/D4cLoves/D4cLoves/blob/main/069406929aececd7a356af227d25f244.jpg" width="60%" />
+<img src="https://github.com/D4cLoves/D4cLoves/blob/main/0cefaebe7fe15c2408dbf64f160d20a9.gif" 
+       style="width: 100%; max-width: 900px; height: 150px; width: 900px; object-fit: cover; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);"
+       alt="Header GIF"/>
 <br><br>
 <pre style="background: #161b22; padding: 20px; border-radius: 10px; border-left: 4px solid #58a6ff; font-size: 1.25em; color: #e0e0e0; line-height: 1.8; text-align: center; font-family: 'Segoe UI', sans-serif;">
 💼   Back-end developer • Platform Engineer
@@ -11,8 +12,6 @@
 </pre>
 
 <br><br>
-<img src="https://github.com/D4cLoves/D4cLoves/blob/main/109fbc99886fbd506c91acef122c3d79.gif" height="30" />
-<br><br><br>
     
 
 
