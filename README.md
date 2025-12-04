@@ -14,25 +14,15 @@
 <img src="https://github.com/D4cLoves/D4cLoves/blob/main/109fbc99886fbd506c91acef122c3d79.gif" height="30" />
 <br><br><br>
     
-<div align="center" style="background: #161b22; padding: 20px; border-radius: 10px; margin-top: 30px; display: inline-block;">
-    <a href="https://t.me/D4cLoves" style="text-decoration: none; margin: 0 8px;">
-        <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram" alt="Telegram"/>
-    </a>
-    <a href="https://vk.com/d4cloves" style="text-decoration: none; margin: 0 8px;">
-        <img src="https://img.shields.io/badge/VK-4C75A3?style=flat-square&logo=vk" alt="VK"/>
-    </a>
-    <a href="https://github.com/D4cLoves" style="text-decoration: none; margin: 0 8px;">
-        <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github" alt="GitHub"/>
-    </a>
-    <a href="https://linkedin.com/in/ваш_профиль" style="text-decoration: none; margin: 0 8px;">
-        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn"/>
-    </a>
-</div>
+
 
 </div>
 
+<br><br>
 
-## 🛠️ Технологии и навыки
+<div align="center">
+    
+ <h1>🛠️ Технологии и навыки</h1>
 
 ### **Frontend:**
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -51,11 +41,13 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
+</div>
 
-
-## 📊 Статистика GitHub
+<br><br>
 
 <div align="center">
+
+<h1>📊 Статистика GitHub</h1>
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=D4cLoves&theme=dark&hide_border=true&background=0d1117)
 
@@ -71,13 +63,22 @@
   
 </div>
 
+<br><br>
 
-## 📈 Активность
+<div align="center">
+
+ <h1>📈 Активность</h1>
 
 <!-- GitHub Stats Snake Graph -->
 ![D4cLoves's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=D4cLoves&theme=github-dark&hide_border=true&area=true)
 
-## 🎯 В планах изучать/улучшить
+</div>
+
+<br><br>
+
+<div align="center">
+
+<h1>🎯 В планах изучать/улучшить</h1>
 
 - [x] TypeScript & React
 - [x] .NET Core
@@ -86,9 +87,13 @@
 - [ ] GraphQL
 - [ ] Microservices архитектура
 
-## 📫 Контакты
+</div>
+
+<br><br>
 
 <div align="center">
+
+<h1>📫 Контакты</h1>
   
   **Хочешь пообщаться или предложить проект?**  
   Я всегда открыт к интересным предложениям и сотрудничеству!
@@ -96,6 +101,18 @@
   [![Email](https://img.shields.io/badge/vladislavvtr12@mail.ru-Email-red?style=flat-square&logo=gmail)](mailto:vladislavvtr12@mail.ru)
   [![GitHub](https://img.shields.io/badge/D4cLoves-GitHub-black?style=flat-square&logo=github)](https://github.com/D4cLoves)
   
+  <div align="center" style="background: #161b22; padding: 20px; border-radius: 10px; margin-top: 30px; display: inline-block;">
+    <a href="https://t.me/D4cLoves" style="text-decoration: none; margin: 0 8px;">
+        <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram" alt="Telegram"/>
+    </a>
+    <a href="https://vk.com/d4cloves" style="text-decoration: none; margin: 0 8px;">
+        <img src="https://img.shields.io/badge/VK-4C75A3?style=flat-square&logo=vk" alt="VK"/>
+    </a>
+    <a href="https://linkedin.com/in/ваш_профиль" style="text-decoration: none; margin: 0 8px;">
+        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn"/>
+    </a>
+</div>
+  <br/>
   <p>💬 <i>Не стесняйся писать!</i></p>
   
 </div>
