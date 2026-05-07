@@ -93,14 +93,12 @@ Clean Architecture, REST API design, databases, caching, DevOps basics and distr
 
 ## 🚀 Featured Projects
 
-<div align="center">
-
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td valign="top">
       <h3 align="center">🚀 Momentum</h3>
       <p align="center">
-        <b>Focus tracker platform with streaks, sessions, statistics and full-stack architecture.</b>
+        <b>Focus tracker platform with sessions, streaks, statistics and full-stack architecture.</b>
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="ASP.NET Core"/>
@@ -116,12 +114,12 @@ Clean Architecture, REST API design, databases, caching, DevOps basics and distr
         <li>Focus session tracking</li>
         <li>Daily streak and best streak logic</li>
         <li>Project-level time distribution</li>
-        <li>Statistics for productive days</li>
+        <li>Productive days statistics</li>
         <li>Authentication flow</li>
         <li>Docker Compose infrastructure</li>
       </ul>
       <p>
-        <b>Architecture:</b> layered backend with Domain, Application, Infrastructure, Shared Kernel and Integration Tests.
+        <b>Architecture:</b> Domain, Application, Infrastructure, Shared Kernel and Integration Tests.
       </p>
       <p align="center">
         <a href="https://github.com/D4cLoves/Momentum">
@@ -129,7 +127,14 @@ Clean Architecture, REST API design, databases, caching, DevOps basics and distr
         </a>
       </p>
     </td>
-    <td width="50%" valign="top">
+  </tr>
+</table>
+
+<br/>
+
+<table>
+  <tr>
+    <td valign="top">
       <h3 align="center">🏥 MediCare Management System</h3>
       <p align="center">
         <b>Medical records management system with clean architecture and modern frontend.</b>
@@ -168,8 +173,8 @@ Clean Architecture, REST API design, databases, caching, DevOps basics and distr
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">♟️ Sakura Chess</h3>
+    <td valign="top">
+      <h3 align="center">♟️ Sacura Chess</h3>
       <p align="center">
         <b>Desktop chess application with AI engine, modern WPF UI and game analysis features.</b>
       </p>
@@ -199,7 +204,14 @@ Clean Architecture, REST API design, databases, caching, DevOps basics and distr
         </a>
       </p>
     </td>
-    <td width="50%" valign="top">
+  </tr>
+</table>
+
+<br/>
+
+<table>
+  <tr>
+    <td valign="top">
       <h3 align="center">🎵 MusicPlayer</h3>
       <p align="center">
         <b>WPF MP3 player with recursive file search, metadata extraction and reactive UI updates.</b>
@@ -234,76 +246,46 @@ Clean Architecture, REST API design, databases, caching, DevOps basics and distr
   </tr>
 </table>
 
-</div>
-
----
-
-## 📌 Repository Cards
-
-<div align="center">
-
-<a href="https://github.com/D4cLoves/Momentum">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=D4cLoves&repo=Momentum&theme=github_dark&hide_border=true" alt="Momentum Repository Card"/>
-</a>
-<a href="https://github.com/D4cLoves/MediCareManagementSystem">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=D4cLoves&repo=MediCareManagementSystem&theme=github_dark&hide_border=true" alt="MediCare Management System Repository Card"/>
-</a>
-
-<br/>
-
-<a href="https://github.com/D4cLoves/SacuraChess">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=D4cLoves&repo=SacuraChess&theme=github_dark&hide_border=true" alt="SacuraChess Repository Card"/>
-</a>
-<a href="https://github.com/D4cLoves/MusicPlayer">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=D4cLoves&repo=MusicPlayer&theme=github_dark&hide_border=true" alt="MusicPlayer Repository Card"/>
-</a>
-
-</div>
-
 ---
 
 ## 📚 Currently Improving
 
-<div align="center">
-
 <table>
   <tr>
-    <td align="center" width="220">
+    <td align="center" width="33%">
       <b>ASP.NET Core</b>
       <br/>
       Advanced backend patterns
     </td>
-    <td align="center" width="220">
+    <td align="center" width="33%">
       <b>Architecture</b>
       <br/>
       Clean Architecture
     </td>
-    <td align="center" width="220">
+    <td align="center" width="33%">
       <b>Databases</b>
       <br/>
       PostgreSQL optimization
     </td>
   </tr>
   <tr>
-    <td align="center" width="220">
+    <td align="center" width="33%">
       <b>Docker</b>
       <br/>
       Deployment basics
     </td>
-    <td align="center" width="220">
+    <td align="center" width="33%">
       <b>System Design</b>
       <br/>
       Scalable services
     </td>
-    <td align="center" width="220">
+    <td align="center" width="33%">
       <b>Cloud</b>
       <br/>
       AWS / Azure basics
     </td>
   </tr>
 </table>
-
-</div>
 
 ---
 
@@ -312,12 +294,6 @@ Clean Architecture, REST API design, databases, caching, DevOps basics and distr
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=D4cLoves&theme=dark&hide_border=true&background=0d1117" alt="GitHub Streak"/>
-
-<br/>
-<br/>
-
-<img src="https://raw.githubusercontent.com/D4cLoves/github-stats-transparent/refs/heads/output/generated/languages.svg" alt="Languages"/>
-<img src="https://raw.githubusercontent.com/D4cLoves/github-stats-transparent/refs/heads/output/generated/overview.svg" alt="Overview"/>
 
 </div>
 
