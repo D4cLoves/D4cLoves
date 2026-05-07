@@ -93,60 +93,172 @@ Clean Architecture, REST API design, databases, caching, DevOps basics and distr
 
 ## 🚀 Featured Projects
 
+<div align="center">
+
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Live Sessions Platform</h3>
+      <h3 align="center">🚀 Momentum</h3>
       <p align="center">
-        Backend application for managing live sessions, authentication, statistics and caching.
+        <b>Focus tracker platform with streaks, sessions, statistics and full-stack architecture.</b>
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="ASP.NET Core"/>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
+        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis"/>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
       </p>
       <p>
-        <b>Stack:</b> ASP.NET Core, PostgreSQL, Redis, Docker, EF Core, JWT
-      </p>
-      <p>
-        <b>Features:</b>
+        <b>What it does:</b>
       </p>
       <ul>
-        <li>User authentication</li>
-        <li>JWT authorization</li>
-        <li>Live session management</li>
-        <li>Redis caching</li>
-        <li>Statistics tracking</li>
-        <li>Dockerized environment</li>
+        <li>Focus session tracking</li>
+        <li>Daily streak and best streak logic</li>
+        <li>Project-level time distribution</li>
+        <li>Statistics for productive days</li>
+        <li>Authentication flow</li>
+        <li>Docker Compose infrastructure</li>
       </ul>
+      <p>
+        <b>Architecture:</b> layered backend with Domain, Application, Infrastructure, Shared Kernel and Integration Tests.
+      </p>
       <p align="center">
-        <a href="https://github.com/D4cLoves">
-          <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
+        <a href="https://github.com/D4cLoves/Momentum">
+          <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repository"/>
         </a>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Backend API Project</h3>
+      <h3 align="center">🏥 MediCare Management System</h3>
       <p align="center">
-        API-focused backend project with database logic, service layer and structured architecture.
+        <b>Medical records management system with clean architecture and modern frontend.</b>
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/ASP.NET_Core_9-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="ASP.NET Core 9"/>
+        <img src="https://img.shields.io/badge/EF_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="EF Core"/>
+        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite"/>
+        <img src="https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React 19"/>
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
       </p>
       <p>
-        <b>Stack:</b> C#, ASP.NET Core, EF Core, SQL, Docker
-      </p>
-      <p>
-        <b>Focus:</b>
+        <b>What it does:</b>
       </p>
       <ul>
-        <li>REST API design</li>
-        <li>Database models</li>
-        <li>Clean service structure</li>
-        <li>Error handling</li>
-        <li>Configuration management</li>
-        <li>Readable codebase</li>
+        <li>Patient management</li>
+        <li>Doctor search by specialization</li>
+        <li>Disease reference catalog</li>
+        <li>REST API with Swagger documentation</li>
+        <li>React frontend with TypeScript</li>
+        <li>Test data seeding</li>
       </ul>
+      <p>
+        <b>Architecture:</b> Domain, Application, Infrastructure, API and Client layers.
+      </p>
       <p align="center">
-        <a href="https://github.com/D4cLoves?tab=repositories">
-          <img src="https://img.shields.io/badge/More_Repos-181717?style=for-the-badge&logo=github&logoColor=white" alt="More Repositories"/>
+        <a href="https://github.com/D4cLoves/MediCareManagementSystem">
+          <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repository"/>
         </a>
       </p>
     </td>
   </tr>
 </table>
+
+<br/>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">♟️ Sakura Chess</h3>
+      <p align="center">
+        <b>Desktop chess application with AI engine, modern WPF UI and game analysis features.</b>
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#"/>
+        <img src="https://img.shields.io/badge/.NET_8-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET 8"/>
+        <img src="https://img.shields.io/badge/WPF-5C2D91?style=flat-square&logo=windows&logoColor=white" alt="WPF"/>
+        <img src="https://img.shields.io/badge/Lc0_Engine-000000?style=flat-square" alt="Lc0 Engine"/>
+      </p>
+      <p>
+        <b>What it does:</b>
+      </p>
+      <ul>
+        <li>Chess game against AI</li>
+        <li>Three difficulty levels</li>
+        <li>Classic chess and Chess960 modes</li>
+        <li>Position analysis and best moves</li>
+        <li>Move history with navigation</li>
+        <li>Timer and time controls</li>
+      </ul>
+      <p>
+        <b>Focus:</b> desktop UI, game logic, chess engine integration and installer packaging.
+      </p>
+      <p align="center">
+        <a href="https://github.com/D4cLoves/SacuraChess">
+          <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repository"/>
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🎵 MusicPlayer</h3>
+      <p align="center">
+        <b>WPF MP3 player with recursive file search, metadata extraction and reactive UI updates.</b>
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#"/>
+        <img src="https://img.shields.io/badge/.NET_8-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET 8"/>
+        <img src="https://img.shields.io/badge/WPF-5C2D91?style=flat-square&logo=windows&logoColor=white" alt="WPF"/>
+        <img src="https://img.shields.io/badge/NAudio-512BD4?style=flat-square" alt="NAudio"/>
+        <img src="https://img.shields.io/badge/TagLibSharp-512BD4?style=flat-square" alt="TagLibSharp"/>
+      </p>
+      <p>
+        <b>What it does:</b>
+      </p>
+      <ul>
+        <li>Recursive MP3 search</li>
+        <li>ID3 metadata reading</li>
+        <li>Album cover extraction</li>
+        <li>Track search page</li>
+        <li>Playlist and liked tracks</li>
+        <li>Thread-safe UI updates</li>
+      </ul>
+      <p>
+        <b>Focus:</b> WPF UI, audio playback, metadata processing and state management.
+      </p>
+      <p align="center">
+        <a href="https://github.com/D4cLoves/MusicPlayer">
+          <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repository"/>
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+## 📌 Repository Cards
+
+<div align="center">
+
+<a href="https://github.com/D4cLoves/Momentum">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=D4cLoves&repo=Momentum&theme=github_dark&hide_border=true" alt="Momentum Repository Card"/>
+</a>
+<a href="https://github.com/D4cLoves/MediCareManagementSystem">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=D4cLoves&repo=MediCareManagementSystem&theme=github_dark&hide_border=true" alt="MediCare Management System Repository Card"/>
+</a>
+
+<br/>
+
+<a href="https://github.com/D4cLoves/SacuraChess">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=D4cLoves&repo=SacuraChess&theme=github_dark&hide_border=true" alt="SacuraChess Repository Card"/>
+</a>
+<a href="https://github.com/D4cLoves/MusicPlayer">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=D4cLoves&repo=MusicPlayer&theme=github_dark&hide_border=true" alt="MusicPlayer Repository Card"/>
+</a>
+
+</div>
 
 ---
 
