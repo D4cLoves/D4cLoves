@@ -1,124 +1,121 @@
 <div align="center">
-<img src="https://github.com/D4cLoves/D4cLoves/blob/main/06d85dfe641057ec9462c0bc6b092aa6.gif" 
-       style="width: 100%; max-width: 900px; height: 150px; width: 900px; object-fit: cover; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);"
-       alt="Header GIF"/>
-<br><br>
-<pre style="background: #161b22; padding: 20px; border-radius: 10px; border-left: 4px solid #58a6ff; font-size: 1.25em; color: #e0e0e0; line-height: 1.8; text-align: center; font-family: 'Segoe UI', sans-serif;">
-💼   Back-end developer • Platform Engineer
-💻   System programming languages • DevOps
-📖   Software architecture • Distributed systems
-🎮   Music • Games • Anime • Code • Art
-🥊   I love boxing
-</pre>
-
-
+  <img src="https://github.com/D4cLoves/D4cLoves/blob/main/06d85dfe641057ec9462c0bc6b092aa6.gif" width="900" height="150" alt="Header GIF"/>
 </div>
-
-<br><br>
-
-<div align="center">
-    
- <h1>🛠️ Технологии и навыки</h1>
-
-### **Frontend:**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### **Backend & Базы данных:**
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### **Инструменты:**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
-</div>
-
-<br><br>
-
-<div align="center">
-
-<h1>📊 Статистика GitHub</h1>
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=D4cLoves&theme=dark&hide_border=true&background=0d1117)
-
 
 <br/>
 
+<h1 align="center">Hi, I'm Vladislav 👋</h1>
 
-  
-![Stats Overview](https://raw.githubusercontent.com/D4cLoves/github-stats-transparent/refs/heads/output/generated/languages.svg)
-![Most Used Languages](https://raw.githubusercontent.com/D4cLoves/github-stats-transparent/refs/heads/output/generated/overview.svg)
-  
-  
-  
-</div>
+<p align="center">
+  <b>.NET Backend Developer</b><br/>
+  ASP.NET Core • PostgreSQL • Redis • Docker • REST API
+</p>
 
-<br><br>
+<p align="center">
+  I build backend applications with clean architecture, authentication, databases and containerized environments.
+</p>
+
+---
+
+## 👨‍💻 About me
+
+I'm a backend developer focused on building reliable and maintainable server-side applications.
+
+My main stack is **C# / ASP.NET Core**.  
+I have experience with **Entity Framework Core, PostgreSQL, Redis, Docker, JWT authentication and REST API development**.
+
+I'm interested in backend architecture, distributed systems, DevOps basics and writing clean, understandable code.
+
+---
+
+## 🛠 Tech Stack
+
+### Backend
+
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
+
+### Databases & Caching
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MS SQL Server](https://img.shields.io/badge/MS_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### Tools
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### Frontend basics
+
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+---
+
+## 🚀 Projects
+
+### Live Sessions Platform
+
+Backend application for managing live sessions, user authentication, statistics and caching.
+
+**Stack:** ASP.NET Core, PostgreSQL, Redis, Docker, EF Core, JWT  
+**Features:**
+
+- User authentication and authorization
+- Live session management
+- Redis caching
+- Statistics tracking
+- Dockerized environment
+- Clean project structure
+
+Repository: [View on GitHub](https://github.com/D4cLoves)
+
+---
+
+### Other projects
+
+You can find more of my projects in my repositories.  
+I focus on backend logic, API design, database structure and practical architecture.
+
+---
+
+## 📚 Currently improving
+
+- Advanced ASP.NET Core
+- Clean Architecture
+- PostgreSQL optimization
+- Docker and deployment
+- System design basics
+- Microservices fundamentals
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
- <h1>📈 Активность</h1>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=D4cLoves&theme=dark&hide_border=true&background=0d1117)
 
-<!-- GitHub Stats Snake Graph -->
-![D4cLoves's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=D4cLoves&theme=github-dark&hide_border=true&area=true)
-
-</div>
-
-<br><br>
-
-<div align="center">
-
-<h1>🎯 В планах изучать/улучшить</h1>
-
-- [x] TypeScript & React
-- [x] .NET Core
-- [ ] Kubernetes
-- [ ] AWS/Azure
-- [ ] GraphQL
-- [ ] Microservices архитектура
-
-</div>
-
-<br><br>
-
-<div align="center">
-
-<h1>📫 Контакты</h1>
-  
-  **Хочешь пообщаться или предложить проект?**  
-  Я всегда открыт к интересным предложениям и сотрудничеству!
-  
-  [![Email](https://img.shields.io/badge/vladislavvtr12@mail.ru-Email-red?style=flat-square&logo=gmail)](mailto:vladislavvtr12@mail.ru)
-  [![GitHub](https://img.shields.io/badge/D4cLoves-GitHub-black?style=flat-square&logo=github)](https://github.com/D4cLoves)
-  
-  <div align="center" style="background: #161b22; padding: 20px; border-radius: 10px; margin-top: 30px; display: inline-block;">
-    <a href="https://t.me/D4cLoves" style="text-decoration: none; margin: 0 8px;">
-        <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram" alt="Telegram"/>
-    </a>
-    <a href="https://vk.com/d4cloves" style="text-decoration: none; margin: 0 8px;">
-        <img src="https://img.shields.io/badge/VK-4C75A3?style=flat-square&logo=vk" alt="VK"/>
-    </a>
-    <a href="https://linkedin.com/in/ваш_профиль" style="text-decoration: none; margin: 0 8px;">
-        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn"/>
-    </a>
-</div>
-  <br/>
-  <p>💬 <i>Не стесняйся писать!</i></p>
-  
 </div>
 
 ---
-<div align="center">
-  
-  <img src="https://komarev.com/ghpvc/?username=D4cLoves&color=blue&style=flat-square" alt="Profile Views"/>
-  
-  <p><i>✨ "Код — это поэзия, которую понимают компьютеры"</i></p>
-  
-</div>
 
+## 📫 Contact me
+
+I'm open to backend developer roles, internships and interesting projects.
+
+<p>
+  <a href="mailto:vladislavvtr12@mail.ru">
+    <img src="https://img.shields.io/badge/Email-vladislavvtr12@mail.ru-red?style=flat-square&logo=gmail" alt="Email"/>
+  </a>
+  <a href="https://github.com/D4cLoves">
+    <img src="https://img.shields.io/badge/GitHub-D4cLoves-black?style=flat-square&logo=github" alt="GitHub"/>
+  </a>
+  <a href="https://t.me/D4cLoves">
+    <img src="https://img.shields.io/badge/Telegram-D4cLoves-26A5E4?style=flat-square&logo=telegram" alt="Telegram"/>
+  </a>
+</p>
