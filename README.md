@@ -1,14 +1,14 @@
 
 <div align="center">
 
-<div align="center">
+  <img
+    src="pinnsaver_ac9ab2d7b62c33e4f62254e92aeb283d_720w-ezgif.com-video-to-gif-converter.gif"
+    width="900"
+    height="150"
+    alt="Gear 5"
+  />
 
-  <h3>Vladislav</h3>
-  <h3>Go Backend Developer</h3>
-
-</div>
-
-  <br/>
+  <br/><br/>
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="38" alt="Go" />
   <img width="12" />
@@ -31,8 +31,11 @@
       alt="Spotify Recently Played"
     />
   </a>
+
 </div>
 
-
-<img data-importer="snake" src="https://raw.githubusercontent.com/D4cLoves/D4cLoves/snake-output/snake.svg" alt="Snake animation" />
-
+<img
+  data-importer="snake"
+  src="https://raw.githubusercontent.com/D4cLoves/D4cLoves/snake-output/snake.svg"
+  alt="Snake animation"
+/>
