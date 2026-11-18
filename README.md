@@ -30,19 +30,14 @@ Backend development, databases, concurrency and everything in between.
 ---
 
 
-### About Me
 
-name: Vladislav
-role: Go Backend Developer
-focus: Backend Development
+## About Me
 
-currently:
-  - Go internals & concurrency
-  - Backend architecture
-  - Databases & distributed systems
+I'm Vladislav, a backend developer focused on Go.
 
-background:
-  - C# / ASP.NET Core
+Previously worked with C# and ASP.NET Core.
+Interested in backend development, databases and how things work under the hood.
+
 
 
 ---
