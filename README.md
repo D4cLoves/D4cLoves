@@ -45,7 +45,7 @@ Backend development, databases, concurrency and everything in between.
 <img src="https://img.shields.io/badge/MS_SQL_Server-CC2927?style=for-the-badge&logoColor=white" alt="SQL Server"/>
 <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
 
-<br/><br/>
+<br/>
 
 **Tools & Environment**
 
