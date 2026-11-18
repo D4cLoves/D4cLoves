@@ -1,136 +1,91 @@
+
 <div align="center">
 
-<img src="pinnsaver_ac9ab2d7b62c33e4f62254e92aeb283d_720w-ezgif.com-video-to-gif-converter.gif" width="900" height="150" alt="Header GIF"/>
+<img src="pinnsaver_ac9ab2d7b62c33e4f62254e92aeb283d_720w-ezgif.com-video-to-gif-converter.gif" width="900" height="150" alt="Header" />
 
-<br/>
-<br/>
+<br/><br/>
 
-<h1>Hi, I'm Vladislav 👋</h1>
+# Vladislav
 
-<h3>.NET Backend Developer</h3>
+### Go Backend Developer
 
-<p>
-  <b>ASP.NET Core • PostgreSQL • MS SQL Server • Redis • Docker • REST API • JWT</b>
-</p>
+`Go` · `PostgreSQL` · `Docker` · `REST APIs` · `C#`
 
-<p>
-  I build backend applications with authentication, caching, database logic and clean project structure.
-</p>
+Backend development, databases, concurrency and everything in between.
 
 <br/>
 
-<a href="mailto:vladislavvtr12@mail.ru">
-  <img src="https://img.shields.io/badge/Email-d4c_loves@mail.ru-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
 <a href="https://t.me/D4cLoves">
-  <img src="https://img.shields.io/badge/Telegram-D4cLoves-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+</a>
+<a href="mailto:vladislavvtr12@mail.ru">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 <a href="https://github.com/D4cLoves">
-  <img src="https://img.shields.io/badge/GitHub-D4cLoves-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+### About
 
-```txt
-Backend-focused developer who enjoys building practical server-side applications.
+I'm a backend developer currently focused on **Go**.
 
-Main stack:
-C# / ASP.NET Core / PostgreSQL / MS SQL Server / Redis / Docker
+My background is in C# and ASP.NET Core. Now I'm spending most of my time learning Go internals, concurrency, testing and backend development.
 
-Interested in:
-Clean Architecture, REST API design, databases, caching, DevOps basics and distributed systems.
-```
+Things I'm working on:
+- Understanding how Go works under the hood
+- Writing and testing backend services
+- Working with databases and HTTP APIs
+- Improving code structure and error handling
 
 ---
 
-## 🛠️ Tech Stack
+### Tech Stack
 
 <div align="center">
 
-### Backend
+**Backend**
 
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
+<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
+<img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="C#"/>
 <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Core"/>
-<img src="https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="Entity Framework"/>
-<img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge" alt="REST API"/>
-<img src="https://img.shields.io/badge/JWT_Auth-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT Auth"/>
 
-<br/>
-<br/>
+<br/><br/>
 
-### Databases & Cache
+**Databases & Cache**
 
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-<img src="https://img.shields.io/badge/MS_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="MS SQL Server"/>
+<img src="https://img.shields.io/badge/MS_SQL_Server-CC2927?style=for-the-badge&logoColor=white" alt="SQL Server"/>
 <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
 
-<br/>
-<br/>
+<br/><br/>
 
-### Tools
+**Tools & Environment**
 
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
 <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim"/>
 
-<br/>
-<br/>
-
-### Frontend Basics
-
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
-
-</div>
-
-
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=D4cLoves&theme=dark&hide_border=true&background=0d1117" alt="GitHub Streak"/>
-
 </div>
 
 ---
 
-## 📈 Activity
+### GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=D4cLoves&theme=github-dark&hide_border=true&area=true" alt="GitHub Activity Graph"/>
-
-</div>
-
-
-## 📫 Contact
-
-<div align="center">
-
-<p>
-  <b>Feel free to contact me:</b>
-</p>
-
-<a href="mailto:vladislavvtr12@mail.ru">
-  <img src="https://img.shields.io/badge/Email-vladislavvtr12@mail.ru-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-<a href="https://t.me/D4cLoves">
-  <img src="https://img.shields.io/badge/Telegram-D4cLoves-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-</a>
-<a href="https://vk.com/d4cloves">
-  <img src="https://img.shields.io/badge/VK-d4cloves-4C75A3?style=for-the-badge&logo=vk&logoColor=white" alt="VK"/>
-</a>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=D4cLoves&theme=github-dark&hide_border=true&area=true" width="100%" alt="Contribution Activity"/>
 
 <br/>
-<br/>
 
-<img src="https://komarev.com/ghpvc/?username=D4cLoves&color=blue&style=flat-square" alt="Profile Views"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=D4cLoves&theme=github-dark-blue&hide_border=true&background=0D1117" alt="GitHub Streak"/>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=D4cLoves&color=0e75b6&style=flat-square&label=Profile+views" alt="Profile Views"/>
 
 </div>
