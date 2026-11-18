@@ -1,12 +1,12 @@
 
 <div align="center">
 
-  <h1>Vladislav</h1>
+<div align="center">
+
+  <h3>Vladislav</h3>
   <h3>Go Backend Developer</h3>
 
-  <p>
-    Go · PostgreSQL · Redis · Docker
-  </p>
+</div>
 
   <br/>
 
@@ -22,19 +22,17 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="38" alt="Linux" />
 
-  <br/><br/><br/>
+  <br/><br/>
 
   <a href="https://open.spotify.com/user/VladikAladik">
     <img
       src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=316bftvrprfosywnjnvz6ht2gzaa"
-      width="300"
+      width="400"
       alt="Spotify Recently Played"
     />
   </a>
-  <img
-    src="pinnsaver_ac9ab2d7b62c33e4f62254e92aeb283d_720w-ezgif.com-video-to-gif-converter.gif"
-    width="300"
-    alt="Gear 5"
-  />
-
 </div>
+
+
+<img data-importer="snake" src="https://raw.githubusercontent.com/D4cLoves/D4cLoves/snake-output/snake.svg" alt="Snake animation" />
+
