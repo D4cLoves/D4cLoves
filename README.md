@@ -32,7 +32,6 @@ Backend development, databases, concurrency and everything in between.
 
 ### About Me
 
-```yaml
 name: Vladislav
 role: Go Backend Developer
 focus: Backend Development
@@ -44,7 +43,6 @@ currently:
 
 background:
   - C# / ASP.NET Core
-```
 
 
 ---
