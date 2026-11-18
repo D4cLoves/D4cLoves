@@ -29,8 +29,6 @@ Backend development, databases, concurrency and everything in between.
 
 ---
 
-### Tech Stack
-
 <div align="center">
 
 **Backend**
@@ -60,7 +58,7 @@ Backend development, databases, concurrency and everything in between.
 
 ---
 
-### GitHub Activity
+
 
 <div align="center">
 
