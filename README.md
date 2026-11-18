@@ -29,17 +29,23 @@ Backend development, databases, concurrency and everything in between.
 
 ---
 
-### About
 
-I'm a backend developer currently focused on **Go**.
+### About Me
 
-My background is in C# and ASP.NET Core. Now I'm spending most of my time learning Go internals, concurrency, testing and backend development.
+```yaml
+name: Vladislav
+role: Go Backend Developer
+focus: Backend Development
 
-Things I'm working on:
-- Understanding how Go works under the hood
-- Writing and testing backend services
-- Working with databases and HTTP APIs
-- Improving code structure and error handling
+currently:
+  - Go internals & concurrency
+  - Backend architecture
+  - Databases & distributed systems
+
+background:
+  - C# / ASP.NET Core
+```
+
 
 ---
 
