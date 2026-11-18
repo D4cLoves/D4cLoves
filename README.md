@@ -29,11 +29,6 @@ Backend development, databases, concurrency and everything in between.
 
 ---
 
-
-
-
----
-
 ### Tech Stack
 
 <div align="center">
